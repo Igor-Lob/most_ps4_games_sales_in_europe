@@ -1,0 +1,2 @@
+# most_ps4_games_sales_in_europe
+ In this simple project, I performed a basic analysis of the top-selling games in Europe, exclusively on the PS4 platform. For this analysis, I used Python technology along with the numpy and pandas libraries.  To achieve the desired result, I loaded the CSV table for reading and performed a data filtering process, keeping only Europe at the end of the project along with its top-selling games.
